@@ -9,5 +9,4 @@ The schema is [defined in TypeScript](schema/schema.ts) first, but [made availab
 Please see [CONTRIBUTING.md](CONTRIBUTING.md) for details on how to contribute to this project.
 
 ## License
-
 This project is licensed under the MIT License—see the [LICENSE](LICENSE) file for details.
